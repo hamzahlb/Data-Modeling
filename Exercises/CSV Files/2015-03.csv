@@ -1,0 +1,50 @@
+Account Name,Account Type,Product,Department,Region,Date,Actual Units,Unit Price,Actual Value,Budget Value,Sales ID
+Sales,Revenue,Premo,Sales,North,31/03/15,13350,10,133500,158865,PremoNorth42094
+Sales,Revenue,Premo,Sales,South,31/03/15,37450,10,374500,307090,PremoSouth42094
+Sales,Revenue,Premo,Sales,East,31/03/15,81235,10,812350,787979.5,PremoEast42094
+Sales,Revenue,Premo,Sales,West,31/03/15,21500,10,215000,247250,PremoWest42094
+Sales,Revenue,Standard,Sales,North,31/03/15,43400,5,217000,260400,StandardNorth42094
+Sales,Revenue,Standard,Sales,South,31/03/15,40850,5,204250,175655,StandardSouth42094
+Sales,Revenue,Standard,Sales,East,31/03/15,67200,5,336000,268800,StandardEast42094
+Sales,Revenue,Standard,Sales,West,31/03/15,25700,5,128500,136210,StandardWest42094
+Sales,Revenue,Budget,Sales,North,31/03/15,28550,2,57100,53674,BudgetNorth42094
+Sales,Revenue,Budget,Sales,South,31/03/15,43550,2,87100,98423,BudgetSouth42094
+Sales,Revenue,Budget,Sales,East,31/03/15,75775,2,151550,178829,BudgetEast42094
+Sales,Revenue,Budget,Sales,West,31/03/15,16900,2,33800,34476,BudgetWest42094
+Commissions,Variable Cost,Premo,Sales,North,31/03/15,,,-26700,-22695,NA169
+Commissions,Variable Cost,Premo,Sales,South,31/03/15,,,-74900,-70406,NA170
+Commissions,Variable Cost,Premo,Sales,East,31/03/15,,,-162470,-159220.6,NA171
+Commissions,Variable Cost,Premo,Sales,West,31/03/15,,,-43000,-39130,NA172
+Commissions,Variable Cost,Standard,Sales,North,31/03/15,,,-21700,-24087,NA173
+Commissions,Variable Cost,Standard,Sales,South,31/03/15,,,-20425,-23284.5,NA174
+Commissions,Variable Cost,Standard,Sales,East,31/03/15,,,-33600,-29568,NA175
+Commissions,Variable Cost,Standard,Sales,West,31/03/15,,,-12850,-12207.5,NA176
+Commissions,Variable Cost,Budget,Sales,North,31/03/15,,,-2855,-3311.8,NA177
+Commissions,Variable Cost,Budget,Sales,South,31/03/15,,,-4355,-4398.55,NA178
+Commissions,Variable Cost,Budget,Sales,East,31/03/15,,,-7577.5,-8714.125,NA179
+Commissions,Variable Cost,Budget,Sales,West,31/03/15,,,-1690,-1690,NA180
+COGS,Variable Cost,Premo,Sales,North,31/03/15,,,-53400,-49662,NA517
+COGS,Variable Cost,Premo,Sales,South,31/03/15,,,-149800,-179760,NA518
+COGS,Variable Cost,Premo,Sales,East,31/03/15,,,-324940,-305443.6,NA519
+COGS,Variable Cost,Premo,Sales,West,31/03/15,,,-86000,-75680,NA520
+COGS,Variable Cost,Standard,Sales,North,31/03/15,,,-130200,-106764,NA521
+COGS,Variable Cost,Standard,Sales,South,31/03/15,,,-122550,-117648,NA522
+COGS,Variable Cost,Standard,Sales,East,31/03/15,,,-201600,-219744,NA523
+COGS,Variable Cost,Standard,Sales,West,31/03/15,,,-77100,-87123,NA524
+COGS,Variable Cost,Budget,Sales,North,31/03/15,,,-39970,-42767.9,NA525
+COGS,Variable Cost,Budget,Sales,South,31/03/15,,,-60970,-64018.5,NA526
+COGS,Variable Cost,Budget,Sales,East,31/03/15,,,-106085,-98659.05,NA527
+COGS,Variable Cost,Budget,Sales,West,31/03/15,,,-23660,-26972.4,NA528
+Base Salary,Fixed Cost,,Finance,Central,31/03/15,6,6000,-36360,-41814,Finance_Central
+Base Salary,Fixed Cost,,HR,Central,31/03/15,4,4000,-14560,-12958.4,HR_Central
+Base Salary,Fixed Cost,,IT,Central,31/03/15,4,5000,-21400,-18832,IT_Central
+Base Salary,Fixed Cost,,Sales,North,31/03/15,10,7000,-76300,-80115,Sales_North
+Base Salary,Fixed Cost,,Sales,South,31/03/15,5,5000,-23500,-27260,Sales_South
+Base Salary,Fixed Cost,,Sales,East,31/03/15,15,15000,-218250,-189877.5,Sales_East
+Base Salary,Fixed Cost,,Sales,West,31/03/15,6,6000,-39600,-39204,Sales_West
+Office Cost,Fixed Cost,,Central,Central,31/03/15,,,-46500,-39525,NA00015
+IT,Fixed Cost,,Central,Central,31/03/15,,,-5000,-4250,NA00044
+Allocated Overhead,Fixed Cost,,Sales,North,31/03/15,,,-66000,-73920,NA00115
+Allocated Overhead,Fixed Cost,,Sales,South,31/03/15,,,-30000,-28800,NA00116
+Allocated Overhead,Fixed Cost,,Sales,East,31/03/15,,,-87300,-96030,NA00117
+Allocated Overhead,Fixed Cost,,Sales,West,31/03/15,,,-39600,-39996,NA00118
